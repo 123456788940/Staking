@@ -1,4 +1,5 @@
-🦊 Fox Staking dApp – Contracts Overview
+ Fox Staking dApp – Contracts Overview
+
 This repository includes two smart contracts:
 
 foxToken: A custom ERC20 token with a buy() function to mint tokens in exchange for Ether.
